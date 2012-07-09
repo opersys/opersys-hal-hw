@@ -1,0 +1,11 @@
+This tree shows how to add a new HAL type to Android. It's based on AOSP
+2.3.7_r1 but the concepts and code likely work accross a whole wide range of
+AOSPs because the inherent interfaces and bindings are fairly similar.
+
+Files added custom are (C) Opersys inc. and are therefore easy to identify.
+For the other files, look for the <ADDED-BY-OPERSYS> and </ADDED-BY-OPERSYS> to
+identify what was modified/added.
+
+--
+Karim Yaghmour
+karim.yaghmour@opersys.com
